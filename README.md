@@ -15,3 +15,10 @@ relative humidity (RH); (6) air temperature (Ta); (7) globe temperature (Tg).
 
 * Data for air velocity:
 The columns are (2) time and (3) air velocity.
+
+## Part 2: Calculating the average, standard deviation, maximum, and minimum for all variables ##
+Formatting: One decimal point for all variables except relative humidity is no decimal point. Results are printed to file##.csv.
+
+Part 4: Calculate the mean radiant temperature (T_mrt) and operative temperature (T_op)
+
+
