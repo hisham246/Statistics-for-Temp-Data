@@ -8,3 +8,10 @@ write a programme to compile the raw data and analyse the data.
 The number indicates the observation data of room air temperature, relative humidity, globe
 temperature, and air velocity of several sensors with ten seconds interval in experimental living
 room.
+
+* Data for temperature and relative humidity:
+The columns are: (1) Number of sampling; (2) date; (3) time; (4) temperature of sensor; (5)
+relative humidity (RH); (6) air temperature (Ta); (7) globe temperature (Tg).
+
+* Data for air velocity:
+The columns are (2) time and (3) air velocity.
