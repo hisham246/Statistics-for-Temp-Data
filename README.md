@@ -20,5 +20,6 @@ The columns are (2) time and (3) air velocity.
 Formatting: One decimal point for all variables except relative humidity is no decimal point. Results are printed to file##.csv.
 
 Part 4: Calculate the mean radiant temperature (T_mrt) and operative temperature (T_op)
+![equation](https://latex.codecogs.com/svg.image?T_%7Bm%20r%20t%7D=%5Cleft%5B%5Cleft(T_%7Bg%7D&plus;273%5Cright)%5E%7B4%7D&plus;%5Cfrac%7B1.1%20%5Ctimes%2010%5E%7B8%7D%20V_%7Ba%7D%5E%7B0.6%7D%7D%7B%5Cvarepsilon%20D%5E%7B0.4%7D%7D%5Cleft(T_%7Bg%7D-T_%7Ba%7D%5Cright)%5Cright%5D%5E%7B%5Cfrac%7B1%7D%7B4%7D%7D-273)
 
 
