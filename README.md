@@ -4,7 +4,7 @@ or six respondents. The four-thermostat setting of air-conditioning was applied 
 measurement. Each thermostat setting was repeated four times. As a programmer, you need to
 write a programme to compile the raw data and analyse the data.
 
-Part 1: Compiling raw data
+## Part 1: Compiling raw data ##
 The number indicates the observation data of room air temperature, relative humidity, globe
 temperature, and air velocity of several sensors with ten seconds interval in experimental living
 room.
