@@ -29,6 +29,6 @@ Top is approximated as follows:
 ![equation](https://latex.codecogs.com/svg.image?T_%7Bo%20p%7D=%5Cfrac%7B%5Cleft(T_%7Bm%20r%20t%7D&plus;T_%7Ba%7D%20%5Ctimes%20%5Csqrt%7B10%20V_%7Ba%7D%7D%5Cright)%7D%7B1&plus;%5Csqrt%7B10%20V_%7Ba%7D%7D%7D)
 
 At indoor condition when average of air speeds is less than 0.20 m/s, Top is approximated with following equation:
-![equation](https://latex.codecogs.com/svg.image?T_%7Bo%20p%7D=0.5%5Cleft(T_%7Ba%7D&plus;T_%7Bm%20r%20t%7D%5Cright)
+![equation](https://latex.codecogs.com/svg.image?T_%7Bo%20p%7D=0.5%5Cleft(T_%7Ba%7D&plus;T_%7Bm%20r%20t%7D%5Cright))
 
 Results are printed in ###.csv.
